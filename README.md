@@ -10,5 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
 
-![](https://komarev.com/ghpvc/?username=cymonmachera)
+![](https://komarev.com/ghpvc/?username=cymonmachera&color=green)
 
