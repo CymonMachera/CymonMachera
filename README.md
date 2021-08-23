@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Simon Machera, A Tanzanian gene
 - 👀 I’m interested in Python programming | Data Science & Machine Learning | Software Designs & Development
-- 🌱 I’m currently pursuing Online Data Science Carrer path provided by Data Camp
+- 🌱 I’m currently a mentor in the GADS 2021 program in the Mobile Web Track  
 - 💞️ I’m looking to collaborate on any python Projects | Software Development | Open source Projects
 - 📫 How to reach me email: cymonmachera1@gmail.com  | tel +255764331877
 
