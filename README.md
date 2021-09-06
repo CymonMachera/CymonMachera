@@ -8,7 +8,7 @@
 CymonMachera/CymonMachera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<!-- 
 <h2 width="30px" height="50px"></h2>
 
 <div align="center">
@@ -19,4 +19,4 @@ You can click the Preview link to take a look at your changes.
 
 <!-- <div align="center">
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=CymonMachera&layout=compact'/>
-</div> -->
+</div> --> -->
